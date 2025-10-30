@@ -1,4 +1,4 @@
-Casos de Teste – Módulo de Curso (Beedoo Challenge)*
+*Casos de Teste – Módulo de Curso (Beedoo Challenge)*
  
 Cenário 1 – Cadastro de curso com dados válidos
 
