@@ -33,10 +33,10 @@ A proposta consiste em:
 ## 📄 **Documentação Complementar**
 
 - 🧾 **Planilha de Casos de Teste (Google Sheets):**  
-  🔗 [Acessar aqui]([https://docs.google.com/spreadsheets/d/1x3EyQqosagzCJ-nq91AbrBY3CmL_PDPe2mF0m14O2UQ/edit?gid=0#gid=0](https://drive.google.com/drive/folders/1yPEU_Nh2MtEaCCGxNjx6NllO0xDYOAhb))
+  🔗 [[Acessar aqui](https://drive.google.com/drive/folders/1yPEU_Nh2MtEaCCGxNjx6NllO0xDYOAhb)]
 
 - 🎥 **Evidências em Vídeo (Google Drive):**  
-  🔗 [Acessar aqui]([https://drive.google.com/drive/folders/1yPEU_Nh2MtEaCCGxNjx6NllO0xDYOAhb](https://docs.google.com/spreadsheets/d/1x3EyQqosagzCJ-nq91AbrBY3CmL_PDPe2mF0m14O2UQ/edit?gid=0#gid=0))
+  🔗 [[Acessar aqui](https://docs.google.com/spreadsheets/d/1x3EyQqosagzCJ-nq91AbrBY3CmL_PDPe2mF0m14O2UQ/edit?gid=0#gid=0)]
 
 ---
 
