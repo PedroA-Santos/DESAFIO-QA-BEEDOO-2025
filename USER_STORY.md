@@ -17,7 +17,7 @@ Após salvar, o curso deve aparecer na listagem de cursos com as informações c
 
 O sistema deve impedir cadastros duplicados com o mesmo nome de curso.
 
-Ao clicar em “Excluir Curso”, o sistema deve solicitar confirmação e, em seguida, remover o curso da listagem.
+Ao clicar em “Excluir Curso”, o sistema deve remover o curso da listagem.
 
 O sistema deve validar entradas de texto para evitar execução de scripts maliciosos (XSS).
 
