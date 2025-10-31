@@ -49,6 +49,26 @@ A proposta consiste em:
 
 ---
 
+## Os casos de teste foram documentados em formato passo a passo, visando facilitar a execução manual, a reprodutibilidade dos resultados e o registro detalhado das evidências.
+
+Embora o formato BDD/Gherkin seja amplamente utilizado para automação e especificação comportamental, o modelo passo a passo foi escolhido por oferecer maior clareza durante os testes manuais exploratórios, especialmente considerando o escopo deste desafio.
+
+Cada caso de teste contém:
+
+Pré-condições necessárias para execução;
+
+Passos detalhados a serem seguidos;
+
+Resultado esperado e obtido;
+
+Status final (Passou/Falhou);
+
+Link para evidências em vídeo (MP4).
+
+Essa abordagem garante rastreabilidade entre os critérios de aceitação da User Story e os resultados dos testes, proporcionando uma visão clara da qualidade e comportamento da aplicação.
+
+---
+
 ##  Critérios de Avaliação Interna
 ✔️ Casos de teste cobrindo fluxos de sucesso e erro  
 ✔️ Relatórios de bugs completos e claros  
