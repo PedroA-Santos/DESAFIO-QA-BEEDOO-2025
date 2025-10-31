@@ -6,6 +6,19 @@ Documento com os defeitos encontrados durante a execução dos casos de teste do
 
 ---
 
+## 🧩 Metodologia de Teste
+
+A metodologia utilizada foi **Caixa-Preta com abordagem Exploratório e Baseada em Risco**, conforme as práticas do **ISTQB**.  
+Essa abordagem foi escolhida porque permite validar o sistema do ponto de vista do usuário, sem necessidade de conhecer o código fonte, focando na experiência real e nas possíveis falhas que impactam diretamente o negócio e a segurança.  
+Foram priorizados cenários críticos como:
+- Validação de campos obrigatórios;
+- Inserção de dados inválidos e limites;
+- Tentativas de SQL Injection;
+- Quebra de layout (UI/UX);
+- Fluxo de cadastro com sucesso.
+
+  
+
 ## BUG-002 — Campos obrigatórios não validados (CT002)
 **ID do Caso de Teste:** CT002  
 **Severidade:** Alta  
