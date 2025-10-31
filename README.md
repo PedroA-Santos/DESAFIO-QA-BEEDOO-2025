@@ -40,7 +40,7 @@ A proposta consiste em:
 ---
 
 ##  Metodologia Utilizada
-**Metodologia:** *Teste exploratório + Teste Baseado em Risco + Gherkin*
+**Metodologia:** *Teste exploratório + Teste Baseado em Risco + passo a passo*
 
 **Justificativa:**
 - O sistema é pequeno e o tempo é limitado → o teste exploratório permite identificar problemas inesperados rapidamente.  
