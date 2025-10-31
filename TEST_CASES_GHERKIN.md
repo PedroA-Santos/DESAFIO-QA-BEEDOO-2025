@@ -42,13 +42,8 @@ Dado que existe um curso cadastrado na listagem
 Quando o usuário clicar em “Excluir Curso” e confirmar a exclusão
 Então o curso deve ser removido da listagem e não deve aparecer mais na tela
 
-Cenário 8 – Cancelar exclusão de curso
 
-Dado que o usuário clicou em “Excluir Curso”
-Quando o sistema solicitar confirmação e o usuário optar por “Cancelar”
-Então o curso deve permanecer na listagem sem alterações
-
-Cenário 9 – Campos de data inválidos
+Cenário 8 – Campos de data inválidos
 
 Dado que o usuário está na tela de criação de curso
 Quando inserir uma data de fim anterior à data de início
